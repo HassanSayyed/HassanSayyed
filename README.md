@@ -23,7 +23,7 @@
 
 [![](./img/leetcode.svg)](https://leetcode.com/hasanalsayyed651998/)
 &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;
-[![](./img/hackerrank.svg)](https://www.linkedin.com/in/hasan-al-sayyed/)
+[![](./img/hackerrank.svg)](https://www.hackerrank.com/hasanlasayyed651)
 
 
 
