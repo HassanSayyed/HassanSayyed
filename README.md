@@ -25,7 +25,7 @@
 &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;
 [![](./img/hackerrank.svg)](https://www.linkedin.com/in/hasan-al-sayyed/)
 
-<br />
+
 
 ---
 
