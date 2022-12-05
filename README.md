@@ -29,6 +29,16 @@
 
 ---
 
+### Contact Me:
+
+[![](./img/email-light.svg)](mailto:HASANALSAYYED651998@GMAIL.COM)
+&nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;
+[![](./img/whatsapp-light.svg)](https://wa.me/96178856903)
+
+
+
+---
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
